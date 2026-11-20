@@ -2,9 +2,9 @@
 
 I'm a software developer at [ImmediaC](https://immediac.com) in Halifax, Nova Scotia. I build custom web applications, APIs and integrations for clients, and I'm usually involved from the first requirements conversation through to launch.
 
-- Most of my day is **.NET / C# and SQL** on the back end, with **React, Next.js and Vue** on the front end
+- My day to day work is in **.NET / C# and SQL** on the back end, with **React, Next.js and Vue** on the front end
 - Lately I've been building **AI features into real products**: MCP servers, LLM-assisted workflows, and AI moderation that fails safe
-- I care about the parts around the code too: project plans, decision records, test plans and launch checklists
+- I lead projects from client requirements to deployment: project plans, decision records, test plans and launch checklists
 - Outside of work I coach U16 girls' volleyball and volunteer with Make-A-Wish
 
 **Portfolio:** [ellenlewis.netlify.app](https://ellenlewis.netlify.app) · **LinkedIn:** [ellen-lewis](https://www.linkedin.com/in/ellen-lewis/)
