@@ -1,8 +1,8 @@
 ### Hi, I'm Ellen
 
-I'm a software developer at [ImmediaC](https://immediac.com) in Halifax, Nova Scotia. I build custom web applications, APIs and integrations for clients, and I'm usually involved from the first requirements conversation through to launch.
+I'm a developer at [ImmediaC](https://immediac.com) in Halifax, Nova Scotia! I build custom software solutions and integrations for clients, from planning requirements through to launch.
 
-- My day to day work is in **.NET / C# and SQL** on the back end, with **React, Next.js and Vue** on the front end
+- My day to day work is in **.NET / C# and SQL** on the back end, with any of the following **React, Next.js and Vue** on the front end
 - Lately I've been building **AI features into real products**: MCP servers, LLM-assisted workflows, and AI moderation that fails safe
 - I enjoy **leading projects and working with clients** to understand what they actually need, and writing the documentation that keeps the team and client aligned
 - Outside of work I coach U16 girls' volleyball and volunteer with Make-A-Wish
